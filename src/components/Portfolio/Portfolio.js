@@ -11,16 +11,74 @@ return(
       <div class="container">
   <img src="http://mrmrs.github.io/photos/u/011.jpg" alt="Avatar" className="image"/>
   <div className="overlay">
-    <div className="text">Hello World</div>
+    <div className="text"><p>About Project</p>
+  <p>This is just a short desciption about this project</p>
+    </div>
+
   </div>
 </div>
-</div> 
+</div>
     <div className="fl w-50 w-third-ns pa2">
-      <div className="outline bg-white pv4"></div>
+      <div class="container">
+  <img src="http://mrmrs.github.io/photos/u/011.jpg" alt="Avatar" className="image"/>
+  <div className="overlay">
+    <div className="text"><p>About Project</p>
+  <p>This is just a short desciption about this project</p>
+    </div>
+
+  </div>
+</div>
     </div>
     <div className="fl w-50 w-third-ns pa2">
-      <div className="outline bg-white pv4"></div>
+      <div class="container">
+  <img src="http://mrmrs.github.io/photos/u/011.jpg" alt="Avatar" className="image"/>
+  <div className="overlay">
+    <div className="text"><p>About Project</p>
+  <p>This is just a short desciption about this project</p>
     </div>
+
+  </div>
+</div>
+    </div>
+
+
+    <div className="fl w-50 w-third-ns pa2">
+      <div class="container">
+  <img src="http://mrmrs.github.io/photos/u/011.jpg" alt="Avatar" className="image"/>
+  <div className="overlay">
+    <div className="text"><p>About Project</p>
+  <p>This is just a short desciption about this project</p>
+    </div>
+
+  </div>
+  </div>
+    </div>
+    <div className="fl w-50 w-third-ns pa2">
+      <div class="container">
+  <img src="http://mrmrs.github.io/photos/u/011.jpg" alt="Avatar" className="image"/>
+  <div className="overlay">
+    <div className="text"><p>About Project</p>
+  <p>This is just a short desciption about this project</p>
+    </div>
+
+  </div>
+</div>
+    </div>
+    <div className="fl w-50 w-third-ns pa2">
+      <div class="container">
+  <img src="http://mrmrs.github.io/photos/u/011.jpg" alt="Avatar" className="image"/>
+  <div className="overlay">
+    <div className="text"><p>About Project</p>
+  <p>This is just a short desciption about this project</p>
+    </div>
+
+  </div>
+</div>
+    </div>
+
+
+
+
   </div>
 </div>
 

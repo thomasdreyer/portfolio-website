@@ -1,4 +1,15 @@
-.App {
+/*.App {
+  display:flex;
+  flex-direction: column;
   height: 100%;
    margin: 0;
+
+}*/
+.dev {
+  display:flex;
+
+  justify-content: center;
+ background:gray;
+ height:100%;
+font-family: sans-serif
 }
